@@ -38,6 +38,9 @@ nav ul li a {
     text-decoration: none;
     font-weight: bold;
 }
+nav ul li a:hover {
+    background-color: rgb(192, 157, 231);
+}
 #hero {
     background-image: url("https://images.rawpixel.com/image_400/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAyL3Jhd3BpeGVsb2ZmaWNlOV9uZW9uX2Fic3RyYWN0X3dhbGxwYXBlcl9iYWNrZ3JvdW5kX2luX3RoZV9zdHlsZV8xODljOGJlOC1lM2Y5LTQ2NjktOGU0Ny1jMTljYjBlZGEzYWVfMS5qcGc.jpg") ;
     background-size: cover;
