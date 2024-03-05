@@ -70,9 +70,15 @@ padding: 20px;
     background-color: #24044c;
 
 }
-#services {
+#services h2 {
     background-color: rgb(192, 157, 231);
     padding: 20px;
     text-align: center;
     color: rgba(66, 9, 9, 0.764);
+}
+#services p {
+    background-color: rgb(192, 157, 231);
+    padding: 20px;
+    text-align: center;
+    color:white ;
 }
