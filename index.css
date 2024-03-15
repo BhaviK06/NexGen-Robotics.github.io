@@ -82,3 +82,23 @@ padding: 20px;
     text-align: center;
     color:white ;
 }
+#contact {
+    background-color: rgb(192, 157, 231);
+    padding: 20px;
+    text-align: left;
+}
+
+#contact h2 {
+    color: white;
+    margin-bottom: 15px;
+}
+
+#contact p {
+    margin-bottom: 10px;
+}
+
+#services li:hover,
+#contact p:hover {
+    color: darkorchid;
+    cursor: pointer;
+}
