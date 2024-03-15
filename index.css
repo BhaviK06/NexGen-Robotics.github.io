@@ -104,3 +104,13 @@ padding: 20px;
     color: darkorchid;
     cursor: pointer;
 }
+@media screen and (max-width: 768px) {
+    #services, #about, #contact {
+        text-align: center;
+    }
+
+    #services ul {
+        list-style-type: none;
+        padding: 0;
+    }
+}
