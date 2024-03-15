@@ -62,9 +62,10 @@ main {
         padding: 15px;
         border-radius: 8px;
         box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);  
+        text-align: left;
 }
 .introduction h2, .industry h2 {
-    color: #b3568f;
+    color: white;
 }
 
 ul, ol {
