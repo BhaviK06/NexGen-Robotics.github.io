@@ -85,16 +85,18 @@ padding: 20px;
 #contact {
     background-color: rgb(192, 157, 231);
     padding: 20px;
-    text-align: left;
+    text-align: center;
 }
 
 #contact h2 {
     color: white;
     margin-bottom: 15px;
+    text-align: center;
 }
 
 #contact p {
     margin-bottom: 10px;
+    text-align: center;
 }
 
 #services li:hover,
