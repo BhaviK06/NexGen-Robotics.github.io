@@ -104,6 +104,12 @@ padding: 20px;
     color: darkorchid;
     cursor: pointer;
 }
+footer {
+    background-color:#34086b ;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
 @media screen and (max-width: 768px) {
     #services, #about, #contact {
         text-align: center;
