@@ -70,36 +70,15 @@ padding: 20px;
     background-color: #24044c;
 
 }
-#services h2 {
+#mission h2 {
     background-color: rgb(192, 157, 231);
     padding: 20px;
     text-align: center;
     color: rgba(48, 4, 4, 0.764);
 }
-#services p {
+#mission p {
     background-color: rgb(192, 157, 231);
     padding: 20px;
     text-align: center;
     color:white ;
-}
-#contact {
-    background-color: rgb(192, 157, 231);
-    padding: 20px;
-    text-align: left;
-}
-
-#contact h2 {
-    color: white;
-    margin-bottom: 15px;
-}
-
-#contact p {
-    margin-bottom: 10px;
-}
-
-
-#services li:hover,
-#contact p:hover {
-    color: #51045d;
-    cursor: pointer;
 }
