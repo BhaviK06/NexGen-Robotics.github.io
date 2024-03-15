@@ -54,7 +54,7 @@ main {
     width: 80%;
     margin: 20px auto;
 }
-.introduction, .industry {
+.introduction, .industry, .health {
     
         background-color: #79a3b1;
         color: #ffffff;
@@ -64,14 +64,14 @@ main {
         box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);  
         text-align: right;
 }
-.introduction h2, .industry h2 {
+.introduction h2, .industry h2, .health h2 {
     color: white;
 }
 
 ul, ol {
     margin-left: 20px;
 }
-.industry  img {
+.industry img, .health img{
     float: left;
     max-width: 100%;
     height: auto;
