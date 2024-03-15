@@ -54,7 +54,7 @@ main {
     width: 80%;
     margin: 20px auto;
 }
-.introduction {
+.introduction, .industry {
     
         background-color: #79a3b1;
         color: #ffffff;
@@ -62,4 +62,16 @@ main {
         padding: 15px;
         border-radius: 8px;
         box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);  
+}
+.introduction h2, .industry h2 {
+    color: #b3568f;
+}
+
+ul, ol {
+    margin-left: 20px;
+}
+.industry  img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 15px;
 }
