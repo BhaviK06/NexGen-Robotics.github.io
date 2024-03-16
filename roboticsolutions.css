@@ -54,7 +54,7 @@ main {
     width: 80%;
     margin: 20px auto;
 }
-.introduction, .industry, .health, .agriculture {
+.introduction, .industry, .health, .agriculture, .automation {
     
         background-color: #79a3b1;
         color: #ffffff;
@@ -64,14 +64,14 @@ main {
         box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);  
         text-align: left;
 }
-.introduction h2, .industry h2, .health h2, .agriculture h2 {
+.introduction h2, .industry h2, .health h2, .agriculture h2, .automation h2 {
     color: white;
 }
 
 ul, ol {
     margin-left: 20px;
 }
-.industry img, .health img, .agriculture img{
+.industry img, .health img, .agriculture img, .automation img{
     float: left;
     max-width: 300px; 
     height: auto;
