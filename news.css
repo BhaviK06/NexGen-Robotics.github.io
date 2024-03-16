@@ -41,7 +41,7 @@ nav ul li a:hover {
   
   .hero-image {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://th.bing.com/th/id/OIP.WdDG7pM_zX5aPnaUfZ9AKgHaEH?w=283&h=180&c=7&r=0&o=5&dpr=2&pid=1.7");
-    height: 80%;
+    height: 60%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -57,6 +57,24 @@ nav ul li a:hover {
     color: white;
   }
   
+  * {
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-color: #f1f1f1;
+    padding: 20px;
+    font-family: Arial;
+  }
+  
+  h3{ 
+    text-align: center;
+  }
+  /* Center website */
+  .main {
+    max-width: 1000px;
+    margin: auto;
+  }
   h1 {
     font-size: 50px;
     word-break: break-all;
