@@ -78,3 +78,8 @@ ul, ol {
     margin-right: 25px; 
     margin-bottom: 15px;
 }
+footer {
+    background-color:#34086b ;
+    color: white;
+    text-align: center;
+    padding: 10px 0;}
