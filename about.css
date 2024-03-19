@@ -61,7 +61,7 @@ nav ul li a:hover {
   .about-section {
     padding: 50px;
     text-align: center;
-    background-color: #474e5d;
+    background-color: rgb(219, 173, 229);
     color: white;
   }
   
@@ -101,3 +101,10 @@ nav ul li a:hover {
       display: block;
     }
   }
+
+
+  footer {
+    background-color:#34086b ;
+    color: white;
+    text-align: center;
+    padding: 10px 0;}
