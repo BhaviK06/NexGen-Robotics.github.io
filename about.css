@@ -58,7 +58,7 @@ nav ul li a:hover {
 
 .card {
   width: 50%; /* Adjust the width as needed */
-  padding: 20px; /* Adjust the padding as needed */
+  padding: 10px; /* Adjust the padding as needed */
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   margin: 8px;
 }
