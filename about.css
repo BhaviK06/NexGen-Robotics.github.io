@@ -57,9 +57,16 @@ nav ul li a:hover {
 }
 
 .card {
-  width: 50%;
+  width: 60%; /* Adjust the width as needed */
+  padding: 20px; /* Adjust the padding as needed */
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   margin: 8px;
+}
+
+.container {
+  padding: 0 16px;
+  align-items: center;
+  font-size: 14px; /* Adjust the font size as needed */
 }
 
 .about-section {
@@ -69,10 +76,6 @@ nav ul li a:hover {
   color: white;
 }
 
-.container {
-  padding: 0 16px;
-  align-items: center;
-}
 
 .container::after, .row::after {
   content: "";
