@@ -67,12 +67,14 @@ nav ul li a:hover {
   
   .container {
     padding: 0 16px;
+    align-items: center;
   }
   
   .container::after, .row::after {
     content: "";
     clear: both;
     display: table;
+    align-items: center;
   }
   
   .title {
@@ -89,6 +91,7 @@ nav ul li a:hover {
     text-align: center;
     cursor: pointer;
     width: 100%;
+    align-items: center;
   }
   
   .button:hover {
