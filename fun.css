@@ -1,0 +1,61 @@
+header {
+    background-color: #34086b;
+    color: rgb(192, 157, 231);
+    padding: 15px 0;
+}
+
+.header-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header h1 {
+    margin-left: 20px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+}
+
+nav ul li {
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: bold;
+}
+nav ul li a:hover {
+    background-color: rgb(192, 157, 231);
+}
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.parallax-section {
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+#section1 {
+    background-image: url('https://th.bing.com/th/id/OIP.AaQkuCSxRksJ4ZUIgv-IiwHaEK?w=296&h=180&c=7&r=0&o=5&dpr=2&pid=1.7'); /* Replace with your image path */
+}
+
+#section2 {
+    background-image: url('https://th.bing.com/th/id/OIP.0diwjTc44IlxnMdyX8-85gHaFB?w=249&h=180&c=7&r=0&o=5&dpr=2&pid=1.7'); /* Replace with your image path */
+}
