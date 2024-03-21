@@ -75,3 +75,9 @@ body, html {
 #section6 {
     background-image: url('https://th.bing.com/th/id/OIP.iGsAV1z-FS_HY-49oFXaigHaEK?w=290&h=180&c=7&r=0&o=5&dpr=2&pid=1.7');
 }
+footer {
+    background-color:#34086b ;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
