@@ -45,3 +45,14 @@ footer {
     text-align: center;
     padding: 10px 0;
 }
+#hero {
+    background-image: url("https://th.bing.com/th/id/OIP.ssXhpEQ4MO2-mFMFWwxR3gHaEj?w=312&h=192&c=7&r=0&o=5&dpr=2&pid=1.7") ;
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+}
