@@ -75,7 +75,7 @@ main {
     justify-content: space-between; /* Ensure equal spacing between items */
 }
 
-.introduction, .news1, .news2, .news3, .events {
+.introduction, .news1, .news2, .news3,  {
     background-color: darkcyan;
     color: #ffffff;
     padding: 15px;
@@ -86,7 +86,7 @@ main {
     margin-bottom: 20px;
 }
 
-.introduction h2, .news1 h2, .news2 h2, .news3 h2, .events h2 {
+.introduction h2, .news1 h2, .news2 h2, .news3 h2,  {
     color: white;
 }
 
@@ -94,8 +94,36 @@ main {
 .news1 img,
 .news2 img,
 .news3 img,
-.events img 
+
 {
     max-width: 100%;
     height: auto;
+}
+.upcoming-events {
+    background-color: #79a3b1;
+    color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+.upcoming-events h2 {
+    text-align: center;
+}
+
+.upcoming-events .events-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.upcoming-events img {
+    max-width: 40%;
+    height: auto;
+    margin-right: 20px;
+}
+
+.upcoming-events p {
+    flex: 1;
 }
