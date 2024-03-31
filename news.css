@@ -124,7 +124,7 @@ main {
 }
 
 .heading {
-    background-color: #79a3b1;
+    background-color: #79a3b1; /* Use the same background color as the upcoming-events */
     color: white;
     padding: 20px;
     border-radius: 8px;
@@ -136,14 +136,14 @@ main {
     text-align: center;
 }
 
-.heading {
+.heading .heading-content {
     display: flex;
     align-items: center;
     justify-content: space-between;
 }
 
 .heading img {
-    max-width:20%;
+    max-width: 20%;
     height: auto;
     margin-right: 20px;
 }
