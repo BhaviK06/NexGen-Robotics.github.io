@@ -89,3 +89,11 @@ main {
 .introduction h2, .news1 h2, .news2 h2, .news3 h2 {
     color: white;
 }
+
+.introduction img,
+.news1 img,
+.news2 img,
+.news3 img {
+    max-width: 100%;
+    height: auto;
+}
