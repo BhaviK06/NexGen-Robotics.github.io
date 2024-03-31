@@ -75,7 +75,7 @@ main {
     justify-content: space-between; /* Ensure equal spacing between items */
 }
 
-.introduction, .news1, .news2, .news3,  {
+.introduction, .news1, .news2, .news3{
     background-color: darkcyan;
     color: #ffffff;
     padding: 15px;
@@ -86,19 +86,19 @@ main {
     margin-bottom: 20px;
 }
 
-.introduction h2, .news1 h2, .news2 h2, .news3 h2,  {
+.introduction h2, .news1 h2, .news2 h2, .news3 h2  {
     color: white;
 }
 
 .introduction img,
 .news1 img,
 .news2 img,
-.news3 img,
-
+.news3 img
 {
     max-width: 100%;
     height: auto;
 }
+
 .upcoming-events {
     background-color: #79a3b1;
     color: white;
