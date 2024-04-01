@@ -130,6 +130,7 @@ main {
     border-radius: 8px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     margin-bottom: 20px;
+    text-align: center; /* Center align the content */
 }
 
 .heading h2 {
@@ -137,19 +138,15 @@ main {
 }
 
 .heading .heading-content {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
+    margin-top: 20px; /* Add some space between the image and text */
 }
 
 .heading img {
-    max-width: 20%;
+    display: block; /* Make the image a block element */
+    margin: 0 auto; /* Center align the image */
+    max-width: 100%;
     height: auto;
-    margin-right: 20px;
-}
-
-.heading p {
-    flex: 1;
+    margin-bottom: 20px; /* Add some space below the image */
 }
 
 .event1, .event2, .event3{
