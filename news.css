@@ -130,23 +130,19 @@ main {
     border-radius: 8px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     margin-bottom: 20px;
-    text-align: center; /* Center align the content */
+    display: flex; /* Use flexbox for layout */
+    align-items: center; /* Vertically center align items */
 }
 
 .heading h2 {
+    flex: 1; /* Take up remaining space */
     text-align: center;
 }
 
-.heading .heading-content {
-    margin-top: 20px; /* Add some space between the image and text */
-}
-
 .heading img {
-    display: block; /* Make the image a block element */
-    margin: 0 auto; /* Center align the image */
-    max-width: 100%;
+    max-width: 30%; /* Set width of the image */
     height: auto;
-    margin-bottom: 20px; /* Add some space below the image */
+    margin-right: 20px; /* Add space between image and text */
 }
 
 .event1, .event2, .event3{
