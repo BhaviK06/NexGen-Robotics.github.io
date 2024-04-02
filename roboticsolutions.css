@@ -55,7 +55,7 @@ main {
 .introduction, .industry, .health, .agriculture, .automation {
     
         background-color: rgb(180, 203, 214);
-        color: #ffffff;
+        color: rgb(40, 40, 40);
         margin-bottom: 20px;
         padding: 15px;
         border-radius: 8px;
