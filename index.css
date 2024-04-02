@@ -77,10 +77,10 @@ padding: 20px;
     color: rgba(48, 4, 4, 0.764);
 }
 #mission p {
-    background-color: rgb(192, 157, 231);
+    background-color: rgb(220, 187, 239);
     padding: 20px;
     text-align: center;
-    color:white ;
+    color:rgb(50, 50, 50) ;
 }
 #contact {
     background-color: rgb(192, 157, 231);
