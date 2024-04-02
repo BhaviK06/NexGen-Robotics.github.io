@@ -50,7 +50,7 @@ nav ul li a:hover {
     align-items: center;
     justify-content: center;
     text-align: center;
-    color: white;
+    color: rgb(30, 30, 30);
 }
 .hero-content {
 background-color: rgb(150, 226, 229);
@@ -61,7 +61,7 @@ padding: 20px;
     margin-top: 20px;
     padding: 10px 20px;
     background-color: #34086b;
-    color: rgb(30, 30, 30);
+    color: white;
     text-decoration: none;
     border-radius: 5px;
     transition: background-color 0.3s;
