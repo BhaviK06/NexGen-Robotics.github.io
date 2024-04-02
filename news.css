@@ -54,7 +54,7 @@ footer {
     align-items: center;
     justify-content: center;
     text-align: center;
-    color: white;
+    color: black;
 }
 
 
@@ -72,7 +72,7 @@ main {
 
 .introduction, .news1, .news2, .news3{
     background-color: darkcyan;
-    color: #ffffff;
+    color: black;
     padding: 15px;
     border-radius: 8px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -82,7 +82,7 @@ main {
 }
 
 .introduction h2, .news1 h2, .news2 h2, .news3 h2  {
-    color: white;
+    color: black;
 }
 
 .introduction img,
@@ -96,7 +96,7 @@ main {
 
 .upcoming-events {
     background-color: #79a3b1;
-    color: white;
+    color: black;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -125,7 +125,7 @@ main {
 
 .heading {
     background-color: #79a3b1; /* Use the same background color as the upcoming-events */
-    color: white;
+    color: black;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
