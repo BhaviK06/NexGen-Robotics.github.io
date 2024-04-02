@@ -1,11 +1,8 @@
-body {
-    font-family: 'Arial', sans-serif;
+body, html {
+    height: 100%;
     margin: 0;
-    padding: 0;
-    background-color: #f4f4f4;
-    color: #333;
+    font-family: Arial, sans-serif;
 }
-
 header {
     background-color: #34086b;
     color: rgb(192, 157, 231);
@@ -34,13 +31,14 @@ nav ul li {
 }
 
 nav ul li a {
-    color: white;
+    color: #ffffff;
     text-decoration: none;
     font-weight: bold;
 }
 nav ul li a:hover {
     background-color: rgb(192, 157, 231);
 }
+
 .heading {background-color: rgb(180, 203, 214);
 color: rgb(40, 40, 40);
 padding: 20px 0;
